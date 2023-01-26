@@ -4,7 +4,7 @@
  <img src="https://cdn-icons-png.flaticon.com/512/4147/4147869.png" alt="image" width="70px">
 </p>
 
-<h1 align="center">Hope.js+Docsify</h5>
+<h1 align="center">Hope.js</h5>
 
 * [homepage](/README.md)
 * [RFC](/rfc/README.md)   
