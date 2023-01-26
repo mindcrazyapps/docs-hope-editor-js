@@ -1,3 +1,7 @@
+<p align="center">
+ <img src="https://cdn-icons-png.flaticon.com/512/4147/4147869.png" alt="image" width="70px">
+</p>
+
 ## docs-hope-editor-js
 Documentation for hope.js (render engine and editor for html markup that is stored seperate from the content - out of band - as Ted Nelson would like)
 
